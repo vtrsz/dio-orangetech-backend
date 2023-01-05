@@ -21,12 +21,12 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 ### Princípios de Desenvolvimento de Software
 - [x] [Introdução à Programação e Pensamento Computacional](https://www.dio.me/certificate/B49AFA4F/share)
 - [x] [Introdução ao Git e ao GitHub](https://www.dio.me/certificate/09869892/share)
-- [x] [Como Entregar seu Desafio de Projeto](https://certificates.digitalinnovation.one/687DF62B)
+- [x] [Como Entregar seu Desafio de Projeto](https://www.dio.me/certificate/687DF62B/share)
 - [x] <strong>(Desafio de Projeto)</strong> Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 ---
 ### Conhecendo a Linguagem de Programação Java
 - [x] [Introdução à Plataforma Java](https://www.dio.me/certificate/BE6458E5/share)
-- [ ] Ambiente de Desenvolvimento Java
+- [x] [Ambiente de Desenvolvimento Java](https://www.dio.me/certificate/E6855746/share)
 - [ ] Aprendendo a Sintaxe Java
 - [ ] Lógica Condicional e Controle de Fluxos em Java
 - [ ] Estruturas de Repetição e Arrays em Java
