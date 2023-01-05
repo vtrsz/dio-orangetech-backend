@@ -25,7 +25,7 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 - [x] <strong>(Desafio de Projeto)</strong> Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 ---
 ### Conhecendo a Linguagem de Programação Java
-- [ ] Introdução à Plataforma Java
+- [x] [Introdução à Plataforma Java](https://www.dio.me/certificate/BE6458E5/share)
 - [ ] Ambiente de Desenvolvimento Java
 - [ ] Aprendendo a Sintaxe Java
 - [ ] Lógica Condicional e Controle de Fluxos em Java
