@@ -56,7 +56,7 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 ### Dominando Algoritmos Intermediários com Desafios de Código Java
 - [x] Desafio: Salvando Músicas
 - [x] Desafio: Pontos na Carteira
-- [ ] Desafio: Imóveis Disponíveis
+- [x] Desafio: Imóveis Disponíveis
 - [ ] Desafio: Dc Monalds
 - [ ] Desafio: Camarote do Blue Cold Ice Cubes
 ---
