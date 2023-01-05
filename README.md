@@ -58,7 +58,7 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 - [x] Desafio: Pontos na Carteira
 - [x] Desafio: Imóveis Disponíveis
 - [x] Desafio: Dc Monalds
-- [ ] Desafio: Camarote do Blue Cold Ice Cubes
+- [x] Desafio: Camarote do Blue Cold Ice Cubes
 ---
 ### Fortalecendo sua Carreira Profissional
 - [ ] Deixando Seu LinkedIn Atrativo
