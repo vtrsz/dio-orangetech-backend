@@ -54,7 +54,7 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 - [ ] <strong>(Desafio de Projeto)</strong> Explorando Padrões de Projetos na Prática com Java
 ---
 ### Dominando Algoritmos Intermediários com Desafios de Código Java
-- [ ] Desafio: Salvando Músicas
+- [x] Desafio: Salvando Músicas
 - [ ] Desafio: Pontos na Carteira
 - [ ] Desafio: Imóveis Disponíveis
 - [ ] Desafio: Dc Monalds
