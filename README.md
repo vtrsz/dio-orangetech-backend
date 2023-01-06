@@ -27,7 +27,7 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 ### Conhecendo a Linguagem de Programação Java
 - [x] [Introdução à Plataforma Java](https://www.dio.me/certificate/BE6458E5/share)
 - [x] [Ambiente de Desenvolvimento Java](https://www.dio.me/certificate/E6855746/share)
-- [ ] Aprendendo a Sintaxe Java
+- [x] [Aprendendo a Sintaxe Java](https://www.dio.me/certificate/A35248A8/share)
 - [ ] Lógica Condicional e Controle de Fluxos em Java
 - [ ] Estruturas de Repetição e Arrays em Java
 - [ ] Entendendo Métodos Java
