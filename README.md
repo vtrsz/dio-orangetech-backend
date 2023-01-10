@@ -29,8 +29,8 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 - [x] [Ambiente de Desenvolvimento Java](https://www.dio.me/certificate/E6855746/share)
 - [x] [Aprendendo a Sintaxe Java](https://www.dio.me/certificate/A35248A8/share)
 - [x] [Lógica Condicional e Controle de Fluxos em Java](https://www.dio.me/certificate/4832A5F2/share)
-- [ ] Estruturas de Repetição e Arrays em Java
-- [ ] Entendendo Métodos Java
+- [x] [Estruturas de Repetição e Arrays em Java](https://www.dio.me/certificate/FC103171/share)
+- [x] [Entendendo Métodos Java](https://www.dio.me/certificate/78B9D5BF/share)
 ---
 ### Dominando Algoritmos Básicos com Desafios de Código Java
 - [x] Desafio: Mesada do Sobrinho
@@ -40,11 +40,11 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 - [x] Desafio: Industria da Multa
 ---
 ### Programação Orientada a Objetos com Java
-- [ ] Programação Orientada a Objetos
-- [ ] Trabalhando com Collections Java
-- [ ] Debugging Java
-- [ ] Tratamento de Exceções em Java
-- [ ] <strong>(Desafio de Projeto)</strong> Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+- [x] [Programação Orientada a Objetos](https://www.dio.me/certificate/B8C83713/share)
+- [x] [Trabalhando com Collections Java](https://www.dio.me/certificate/24916B32/share)
+- [x] [Debugging Java](https://www.dio.me/certificate/5911311F/share)
+- [x] [Tratamento de Exceções em Java](https://www.dio.me/certificate/D18EB80A/share)
+- [ ] [<strong>(Desafio de Projeto)</strong> Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/vtrsz/dio-desafio-poo)
 ---
 ### Ganhando Produtividade com Spring Framework
 - [ ] Principais Protocolos de Comunicação da Internet
