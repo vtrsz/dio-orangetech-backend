@@ -47,7 +47,7 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 - [x] [<strong>(Desafio de Projeto)</strong> Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/vtrsz/dio-desafio-poo)
 ---
 ### Ganhando Produtividade com Spring Framework
-- [ ] Principais Protocolos de Comunicação da Internet
+- [x] [Principais Protocolos de Comunicação da Internet](https://www.dio.me/certificate/ED2DE81E/share)
 - [ ] Gerenciamento de Dependências e Build em Java com Maven
 - [ ] Imersão no Spring Framework com Spring Boot
 - [ ] Criando uma API REST Documentada com Spring Web e Swagger
