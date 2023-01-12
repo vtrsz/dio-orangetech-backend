@@ -49,7 +49,7 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 ### Ganhando Produtividade com Spring Framework
 - [x] [Principais Protocolos de Comunicação da Internet](https://www.dio.me/certificate/ED2DE81E/share)
 - [x] [Gerenciamento de Dependências e Build em Java com Maven](https://www.dio.me/certificate/1B61739C/share)
-- [ ] Imersão no Spring Framework com Spring Boot
+- [x] [Imersão no Spring Framework com Spring Boot](https://www.dio.me/certificate/BE86A6CB/share)
 - [ ] Criando uma API REST Documentada com Spring Web e Swagger
 - [ ] <strong>(Desafio de Projeto)</strong> Explorando Padrões de Projetos na Prática com Java
 ---
