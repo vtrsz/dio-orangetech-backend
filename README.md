@@ -61,9 +61,9 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 - [x] Desafio: Camarote do Blue Cold Ice Cubes
 ---
 ### Fortalecendo sua Carreira Profissional
-- [ ] Deixando Seu LinkedIn Atrativo
-- [ ] Turbine Seu Currículo na DIO
-- [ ] Trabalhando em Equipes Ágeis
+- [x] [Deixando Seu LinkedIn Atrativo](https://www.dio.me/certificate/7AE1163E/share)
+- [x] [Turbine Seu Currículo na DIO](https://www.dio.me/certificate/9D8630EF/share)
+- [x] [Trabalhando em Equipes Ágeis](https://www.dio.me/certificate/2B1E6455/share)
 - [ ] Transformando seu Conhecimento em Artigos Técnicos
 - [ ] Se Preparando Para Uma Entrevista
 ---
