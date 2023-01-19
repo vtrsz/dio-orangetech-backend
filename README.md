@@ -64,8 +64,8 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 - [x] [Deixando Seu LinkedIn Atrativo](https://www.dio.me/certificate/7AE1163E/share)
 - [x] [Turbine Seu Currículo na DIO](https://www.dio.me/certificate/9D8630EF/share)
 - [x] [Trabalhando em Equipes Ágeis](https://www.dio.me/certificate/2B1E6455/share)
-- [ ] Transformando seu Conhecimento em Artigos Técnicos
-- [ ] Se Preparando Para Uma Entrevista
+- [x] [Transformando seu Conhecimento em Artigos Técnicos](https://www.dio.me/certificate/69B58406/share)
+- [x] [Se Preparando Para Uma Entrevista](https://www.dio.me/certificate/E4F8B651/share)
 ---
 
 
