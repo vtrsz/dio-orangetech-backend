@@ -51,7 +51,7 @@ Olá, meu nome é **Vítor Souza** e estou no Bootcamp da  **DIO** + **Inter** e
 - [x] [Gerenciamento de Dependências e Build em Java com Maven](https://www.dio.me/certificate/1B61739C/share)
 - [x] [Imersão no Spring Framework com Spring Boot](https://www.dio.me/certificate/BE86A6CB/share)
 - [x] [Criando uma API REST Documentada com Spring Web e Swagger](https://www.dio.me/certificate/AFEB706C/share)
-- [ ] <strong>(Desafio de Projeto)</strong> Explorando Padrões de Projetos na Prática com Java
+- [x] [<strong>(Desafio de Projeto)</strong> Explorando Padrões de Projetos na Prática com Java](https://github.com/vtrsz/dio-challenge-design-pattern)
 ---
 ### Dominando Algoritmos Intermediários com Desafios de Código Java
 - [x] Desafio: Salvando Músicas
